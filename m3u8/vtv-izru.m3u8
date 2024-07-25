@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:0,VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://h1.intechmedia.net/live/ch107.m3u8
